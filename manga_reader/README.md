@@ -2,7 +2,7 @@ Manga Journal App
 
 In the Home Screen you can keep track of different mangas you are interested in, and categorize them by Reading / Done / Wishlist
 
-<img width="660" height="1349" alt="Android Emulator - Pixel_5_5554 6_27_2026 10_16_22 PM" src="https://github.com/user-attachments/assets/fa5bbf49-b453-4f67-969a-df25a7ebfde1" />
+<img width="360" height="749" alt="Android Emulator - Pixel_5_5554 6_27_2026 10_16_22 PM" src="https://github.com/user-attachments/assets/fa5bbf49-b453-4f67-969a-df25a7ebfde1" />
 
 Click on Scan to add a new entry. Select an image from the camera or gallery with the manga cover, and the Google ML Kit will read the title of book.
 
