@@ -87,4 +87,4 @@ The app is named **SoundScout** and uses a purple vinyl icon (`assets/icon/icon.
 
 ## Video Demo
 
-Youtube link: 
+Youtube link: https://www.youtube.com/watch?v=WUZe0rWcZ_4
