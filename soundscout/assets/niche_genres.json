@@ -1,0 +1,261 @@
+[
+  {
+    "name": "Shoegaze",
+    "description": "Guitars drenched in distortion and reverb, buried vocals, and walls of sound — named for the way guitarists stared at their effects pedals on stage instead of the crowd.",
+    "seeds": [
+      {"artist": "My Bloody Valentine", "album": "Loveless"},
+      {"artist": "Slowdive", "album": "Souvlaki"},
+      {"artist": "Ride", "album": "Nowhere"},
+      {"artist": "Swervedriver", "album": "Mezcal Head"},
+      {"artist": "DIIV", "album": "Oshin"},
+      {"artist": "Lush", "album": "Spooky"},
+      {"artist": "Chapterhouse", "album": "Whirlpool"},
+      {"artist": "Catherine Wheel", "album": "Ferment"},
+      {"artist": "Nothing", "album": "Guilty of Everything"}
+    ]
+  },
+  {
+    "name": "Neo-Psychedelia",
+    "description": "Modern artists reviving 60s psych-rock textures — swirling production, hazy melodies, and studio experimentation — filtered through contemporary pop and rock songwriting.",
+    "seeds": [
+      {"artist": "Tame Impala", "album": "Innerspeaker"},
+      {"artist": "Temples", "album": "Sun Structures"},
+      {"artist": "MGMT", "album": "Oracular Spectacular"},
+      {"artist": "Unknown Mortal Orchestra", "album": "Unknown Mortal Orchestra"},
+      {"artist": "The Flaming Lips", "album": "The Soft Bulletin"},
+      {"artist": "Ariel Pink", "album": "Before Today"},
+      {"artist": "Pond", "album": "Man It Feels Like Space Again"}
+    ]
+  },
+  {
+    "name": "Dream Pop",
+    "description": "Lush, atmospheric pop built around washy guitars, reverb-soaked vocals, and a hazy, melodic softness — adjacent to shoegaze but generally gentler and more song-focused.",
+    "seeds": [
+      {"artist": "Beach House", "album": "Teen Dream"},
+      {"artist": "Beach House", "album": "Bloom"},
+      {"artist": "Cocteau Twins", "album": "Heaven or Las Vegas"},
+      {"artist": "Mazzy Star", "album": "So Tonight That I Might See"},
+      {"artist": "Alvvays", "album": "Alvvays"},
+      {"artist": "The Sundays", "album": "Reading, Writing and Arithmetic"},
+      {"artist": "Julee Cruise", "album": "Floating into the Night"}
+    ]
+  },
+  {
+    "name": "Post-Punk",
+    "description": "The angular, artier fallout from punk — jagged guitars, prominent basslines, and a colder, more experimental edge, laying groundwork for goth, indie, and new wave.",
+    "seeds": [
+      {"artist": "Joy Division", "album": "Unknown Pleasures"},
+      {"artist": "Gang of Four", "album": "Entertainment!"},
+      {"artist": "Wire", "album": "Pink Flag"},
+      {"artist": "Talking Heads", "album": "Fear of Music"},
+      {"artist": "The Fall", "album": "Hex Enduction Hour"},
+      {"artist": "Siouxsie and the Banshees", "album": "Juju"},
+      {"artist": "Magazine", "album": "Real Life"},
+      {"artist": "Public Image Ltd", "album": "Metal Box"}
+    ]
+  },
+  {
+    "name": "Synthwave",
+    "description": "Retro-futuristic electronic music built on analog-style synths and drum machines, drawing heavily on 1980s film scores and video game soundtracks.",
+    "seeds": [
+      {"artist": "Kavinsky", "album": "OutRun"},
+      {"artist": "Perturbator", "album": "Dangerous Days"},
+      {"artist": "The Midnight", "album": "Endless Summer"},
+      {"artist": "Carpenter Brut", "album": "Trilogy"},
+      {"artist": "GUNSHIP", "album": "GUNSHIP"},
+      {"artist": "Dance With the Dead", "album": "Loved to Death"},
+      {"artist": "Lazerhawk", "album": "Redline"}
+    ]
+  },
+  {
+    "name": "Vaporwave",
+    "description": "A deliberately slowed-down, chopped-up collage of 80s/90s corporate music and elevator jazz, wrapped in a nostalgic, digital-decay aesthetic.",
+    "seeds": [
+      {"artist": "Macintosh Plus", "album": "Floral Shoppe"},
+      {"artist": "Blank Banshee", "album": "Blank Banshee 0"},
+      {"artist": "Saint Pepsi", "album": "Hit Vibes"},
+      {"artist": "2814", "album": "Birth of a New Day"},
+      {"artist": "George Clanton", "album": "100% Electronica"}
+    ]
+  },
+  {
+    "name": "City Pop",
+    "description": "Glossy, funk- and jazz-inflected Japanese pop from the late 70s and 80s, built for cruising — smooth grooves, lush production, and an optimistic, breezy feel.",
+    "seeds": [
+      {"artist": "Tatsuro Yamashita", "album": "For You"},
+      {"artist": "Mariya Takeuchi", "album": "Variety"},
+      {"artist": "Anri", "album": "Timely!!"},
+      {"artist": "Toshiki Kadomatsu", "album": "After 5 Clash"},
+      {"artist": "Miki Matsubara", "album": "Pocket Park"}
+    ]
+  },
+  {
+    "name": "Trip Hop",
+    "description": "Downtempo, sample-heavy electronic music that grew out of Bristol, UK — moody, bass-driven, and cinematic, blending hip hop breaks with dub and jazz textures.",
+    "seeds": [
+      {"artist": "Portishead", "album": "Dummy"},
+      {"artist": "Massive Attack", "album": "Mezzanine"},
+      {"artist": "Tricky", "album": "Maxinquaye"},
+      {"artist": "Morcheeba", "album": "Who Can You Trust?"},
+      {"artist": "UNKLE", "album": "Psyence Fiction"},
+      {"artist": "Sneaker Pimps", "album": "Becoming X"}
+    ]
+  },
+  {
+    "name": "Math Rock",
+    "description": "Rock built on odd time signatures, intricate interlocking guitar parts, and unconventional song structure — technical and angular, but still driven by feel.",
+    "seeds": [
+      {"artist": "American Football", "album": "American Football"},
+      {"artist": "Toe", "album": "For Long Tomorrow"},
+      {"artist": "Don Caballero", "album": "American Don"},
+      {"artist": "Cap'n Jazz", "album": "Analphabetapolothology"},
+      {"artist": "Polvo", "album": "Today's Active Lifestyles"}
+    ]
+  },
+  {
+    "name": "Post-Rock",
+    "description": "Rock instrumentation used to build slow-building, largely instrumental compositions — often quiet-to-loud dynamics, long runtimes, and a focus on atmosphere over verse-chorus structure.",
+    "seeds": [
+      {"artist": "Godspeed You! Black Emperor", "album": "Lift Your Skinny Fists Like Antennas to Heaven"},
+      {"artist": "Explosions in the Sky", "album": "The Earth Is Not a Cold Dead Place"},
+      {"artist": "Mogwai", "album": "Young Team"},
+      {"artist": "Sigur Rós", "album": "Ágætis byrjun"},
+      {"artist": "Tortoise", "album": "Millions Now Living Will Never Die"},
+      {"artist": "This Will Destroy You", "album": "This Will Destroy You"},
+      {"artist": "Do Make Say Think", "album": "& Yet & Yet"}
+    ]
+  },
+  {
+    "name": "Hyperpop",
+    "description": "Maximalist, internet-native pop — pitched-up vocals, distorted synths, and glitchy production pushed past conventional pop polish into something more chaotic and playful.",
+    "seeds": [
+      {"artist": "100 gecs", "album": "1000 gecs"},
+      {"artist": "Charli XCX", "album": "Pop 2"},
+      {"artist": "SOPHIE", "album": "Oil of Every Pearl's Un-Insides"},
+      {"artist": "Dorian Electra", "album": "Flamboyant"},
+      {"artist": "Kero Kero Bonito", "album": "Time 'n' Place"}
+    ]
+  },
+  {
+    "name": "Noise Rock",
+    "description": "Rock pushed toward abrasive extremes — dissonant guitars, feedback, and a confrontational, often deliberately unpolished production style that favors texture and intensity over melody.",
+    "seeds": [
+      {"artist": "Sonic Youth", "album": "Daydream Nation"},
+      {"artist": "Big Black", "album": "Songs About Fucking"},
+      {"artist": "The Jesus Lizard", "album": "Goat"},
+      {"artist": "Shellac", "album": "At Action Park"},
+      {"artist": "Melvins", "album": "Bullhead"},
+      {"artist": "Swans", "album": "Cop"}
+    ]
+  },
+  {
+    "name": "J-Rock",
+    "description": "Japanese rock music spanning visual-kei theatrics, noisy post-hardcore, and arena-scale pop-rock — a broad, distinctly Japanese scene with its own aesthetic and star system.",
+    "seeds": [
+      {"artist": "X Japan", "album": "Blue Blood"},
+      {"artist": "Boris", "album": "Pink"},
+      {"artist": "the pillows", "album": "Little Busters"},
+      {"artist": "Number Girl", "album": "Sappukei"},
+      {"artist": "L'Arc-en-Ciel", "album": "Ark"}
+    ]
+  },
+  {
+    "name": "Bossa Nova",
+    "description": "A cool, understated fusion of samba rhythm and jazz harmony that emerged in late-1950s Brazil — soft vocals, nylon-string guitar, and unhurried, conversational melodies.",
+    "seeds": [
+      {"artist": "João Gilberto", "album": "Chega de Saudade"},
+      {"artist": "Antônio Carlos Jobim", "album": "Wave"},
+      {"artist": "Stan Getz & João Gilberto", "album": "Getz/Gilberto"},
+      {"artist": "Elis Regina & Antônio Carlos Jobim", "album": "Elis & Tom"},
+      {"artist": "Astrud Gilberto", "album": "The Astrud Gilberto Album"}
+    ]
+  },
+  {
+    "name": "Tropicália",
+    "description": "A late-1960s Brazilian movement that fused samba, rock, psychedelia, and avant-garde ideas into something defiantly eclectic — as much a cultural and political statement as a musical style.",
+    "seeds": [
+      {"artist": "Caetano Veloso", "album": "Caetano Veloso"},
+      {"artist": "Gilberto Gil", "album": "Gilberto Gil"},
+      {"artist": "Os Mutantes", "album": "Os Mutantes"},
+      {"artist": "Tom Zé", "album": "Grande Liquidação"}
+    ]
+  },
+  {
+    "name": "IDM",
+    "description": "Electronic music built for headphones rather than the dancefloor — intricate rhythm programming, unconventional sound design, and a more composerly, experimental approach than typical dance genres.",
+    "seeds": [
+      {"artist": "Aphex Twin", "album": "Selected Ambient Works 85-92"},
+      {"artist": "Boards of Canada", "album": "Music Has the Right to Children"},
+      {"artist": "Autechre", "album": "Tri Repetae"},
+      {"artist": "Squarepusher", "album": "Hard Normal Daddy"},
+      {"artist": "Plaid", "album": "Not for Threes"}
+    ]
+  },
+  {
+    "name": "Baggy",
+    "description": "Late-1980s/early-90s Manchester scene blending indie guitar rock with dance rhythms and acid house grooves — loose, shuffling beats under jangly, hooky songwriting (a.k.a. Madchester).",
+    "seeds": [
+      {"artist": "The Stone Roses", "album": "The Stone Roses"},
+      {"artist": "Happy Mondays", "album": "Pills 'n' Thrills and Bellyaches"},
+      {"artist": "Inspiral Carpets", "album": "Life"},
+      {"artist": "The Charlatans", "album": "Some Friendly"},
+      {"artist": "Primal Scream", "album": "Screamadelica"}
+    ]
+  },
+  {
+    "name": "Noise Pop",
+    "description": "Pop songwriting run through distortion and feedback — hooks and melody still up front, but wrapped in fuzzed-out guitars and a rougher, more DIY production style.",
+    "seeds": [
+      {"artist": "The Jesus and Mary Chain", "album": "Psychocandy"},
+      {"artist": "Yuck", "album": "Yuck"},
+      {"artist": "Guided By Voices", "album": "Bee Thousand"},
+      {"artist": "Dinosaur Jr.", "album": "You're Living All Over Me"},
+      {"artist": "Sonic Youth", "album": "Sister"}
+    ]
+  },
+  {
+    "name": "Shibuya-kei",
+    "description": "A stylish, genre-blending Japanese pop movement from Tokyo's Shibuya district in the 1990s — mixing lounge, bossa nova, French pop, and electronic influences into something cosmopolitan and playful.",
+    "seeds": [
+      {"artist": "Pizzicato Five", "album": "Bossa Nova 2001"},
+      {"artist": "Cornelius", "album": "Fantasma"},
+      {"artist": "Cibo Matto", "album": "Viva! La Woman"},
+      {"artist": "Kahimi Karie", "album": "Girly"},
+      {"artist": "Flipper's Guitar", "album": "Doctor Head's World Tower"}
+    ]
+  },
+  {
+    "name": "Indietronica",
+    "description": "Indie rock songwriting built with electronic production and instrumentation — synths, drum machines, and studio manipulation applied to guitar-band sensibilities.",
+    "seeds": [
+      {"artist": "The Postal Service", "album": "Give Up"},
+      {"artist": "Metric", "album": "Fantasies"},
+      {"artist": "CHVRCHES", "album": "The Bones of What You Believe"},
+      {"artist": "Passion Pit", "album": "Manners"},
+      {"artist": "Grimes", "album": "Visions"},
+      {"artist": "Purity Ring", "album": "Shrines"}
+    ]
+  },
+  {
+    "name": "Psychedelic Rock",
+    "description": "1960s rock aimed at recreating or evoking altered states of consciousness — extended jams, studio effects, unconventional song structure, and an exploratory, mind-expanding sensibility.",
+    "seeds": [
+      {"artist": "The Beatles", "album": "Sgt. Pepper's Lonely Hearts Club Band"},
+      {"artist": "The Jimi Hendrix Experience", "album": "Are You Experienced"},
+      {"artist": "Pink Floyd", "album": "The Piper at the Gates of Dawn"},
+      {"artist": "13th Floor Elevators", "album": "The Psychedelic Sounds of the 13th Floor Elevators"},
+      {"artist": "Jefferson Airplane", "album": "Surrealistic Pillow"}
+    ]
+  },
+  {
+    "name": "Jazz Fusion",
+    "description": "Jazz improvisation combined with the electric instrumentation, rhythms, and volume of rock and funk — virtuosic playing over grooves borrowed from outside the jazz tradition.",
+    "seeds": [
+      {"artist": "Weather Report", "album": "Heavy Weather"},
+      {"artist": "Mahavishnu Orchestra", "album": "The Inner Mounting Flame"},
+      {"artist": "Herbie Hancock", "album": "Head Hunters"},
+      {"artist": "Return to Forever", "album": "Romantic Warrior"},
+      {"artist": "Miles Davis", "album": "Bitches Brew"}
+    ]
+  }
+]

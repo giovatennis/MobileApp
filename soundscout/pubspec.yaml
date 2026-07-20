@@ -1,0 +1,40 @@
+name: soundscout
+description: "Discover music by genre, rate what you hear, and build your own local music library."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  provider: ^6.1.2
+  http: ^1.2.1
+  sqflite: ^2.3.3
+  path: ^1.9.0
+  fl_chart: ^0.68.0
+  intl: ^0.19.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/genre_descriptions.json
+    - assets/niche_genres.json
+
+# Config for the flutter_launcher_icons package. Run:
+#   dart run flutter_launcher_icons
+# after placing a 1024x1024 PNG at assets/icon/icon.png (see README's
+# "App Name and Icon" section for where that PNG comes from).
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/icon.png"
+  min_sdk_android: 21
